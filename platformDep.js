@@ -1,6 +1,6 @@
 import {AppRegistry,DeviceEventEmitter,View,Platform} from 'react-native';
-import'react';
-import'react-native';
+import 'react';
+import 'react-native';
 import React,{Component} from "react";
 
 import {SmartAssets} from "react-native-smartassets";
